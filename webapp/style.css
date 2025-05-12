@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* style.css */
+.external-style {
+  color: white;
+  background-color: #007BFF;
+  padding: 10px;
+  border-radius: 5px;
+}
